@@ -8,6 +8,7 @@ namespace pis1mz
 {
     class NewClass
     {
+        //boze boze
     }
    //jao
 }
