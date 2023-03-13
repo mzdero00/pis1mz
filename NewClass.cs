@@ -8,5 +8,9 @@ namespace pis1mz
 {
     class NewClass
     {
+        static void newMethod()
+        {
+
+        }
     }
 }
