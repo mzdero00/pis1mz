@@ -10,4 +10,5 @@ namespace pis1mz
     {
     }
    //jao
+   //komentar
 }
